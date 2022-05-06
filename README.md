@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Новости Linux 🇷🇺</h3>
 
-##Горячие клавиши в терминале Linux
+Горячие клавиши в терминале Linux
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70E1C&lines=Interesting+Linux+news+for+me+;will+be+posted+here)](https://git.io/typing-svg)
 
