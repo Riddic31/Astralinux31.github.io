@@ -32,4 +32,4 @@ find ./ -name "*.mp3" -type f -print
 
 shopt -s autocd cdspell checkjobs cmdhist dirspell globstar.
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+                                   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
