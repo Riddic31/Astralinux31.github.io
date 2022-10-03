@@ -26,12 +26,6 @@
     <link rel="stylesheet" href="style.css">
     
   </head>
-
-  <style>
-
-      {
-        background-color: #d80000;
-      }
   
 
       <header>
@@ -111,6 +105,6 @@
     </main>
   
   </body>
-    </style>
   </head>
 </html>
+
