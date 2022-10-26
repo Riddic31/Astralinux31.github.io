@@ -67,6 +67,8 @@
       Также доступны несколько переводов от сообщества.
       Этот материал доступен в виде печатной книги в мягкой обложке и в формате электронной книги от No Starch Press.            
       <p>Полезные ссылки:</p>
+      
+      <p><a href="https://linux-pages.ru/Rust_pages.html"> мой сайт о Rust</a></p>
 
       <p><a href="https://www.ralfj.de/projects/rust-101/part00.html">Rust-101 обучение с примерами</a></p>
 
